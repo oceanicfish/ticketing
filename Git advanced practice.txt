@@ -4,3 +4,4 @@ added this to the develop branch.
 here, added a feature.
 
 ready to release
+changed to release configuration.
