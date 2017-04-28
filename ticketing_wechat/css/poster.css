@@ -1,0 +1,10 @@
+
+.poster-weather {
+    background-image: url("../img/placeholders/background/weather.png");
+    background-repeat: repeat;
+}
+
+.poster-food {
+    background-image: url("../img/placeholders/background/food.png");
+    background-repeat: repeat;
+}
