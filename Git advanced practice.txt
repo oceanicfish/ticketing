@@ -1,7 +1,7 @@
 this is my git advanced class practice
 added this to the develop branch. 
 
-here, added a feature.
+here, added a feature. bug fixed.
 
 ready to release
 changed to release configuration.
