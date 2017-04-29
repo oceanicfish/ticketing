@@ -8,3 +8,5 @@ ready to release
 changed to release configuration.
 
 added feature-2.
+
+connected to codeship.
